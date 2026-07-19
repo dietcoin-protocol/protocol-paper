@@ -1,7 +1,7 @@
 # DietCoin: A Consumption-Backed Macro Asset for Urban India
 ### Protocol Paper · Draft v0.2 · For public comment
 
-*Author: Gopikrishnan K · dietcoin-protocol@proton.me · X: @Gopikrishn46001 · Telegram: @GKDcoin · 19 July 2026*
+*Author: Gopikrishnan K · dietcoin.protocol@proton.me · X: @Gopikrishn46001 · Telegram: @GKDcoin · 19 July 2026*
 *Changelog v0.2: purchase attestation redesigned for bundled transactions (tiered weights, §3.1); settlement oracle made modular by region with aggregate mass-balance auditing (§3.3); mint recomposed as principal-at-consumption plus regional settlement bonus (§3.4); uniqueness anchor moved to the consumption oracle (§3.2).*
 
 ---
@@ -160,4 +160,4 @@ This is a design paper, pre-code. Roadmap: (i) manual micro-pilot (one neighborh
 
 ---
 
-*License: CC BY 4.0. Comments: dietcoin-protocol@proton.me · X @Gopikrishn46001 · @GKDcoin (t.me/GKDcoin) · GitHub: github.com/dietcoin-protocol/protocol-paper (Discussions open). Full pricing math (see PRICING.md), tech stack, and mechanism appendices available on request.*
+*License: CC BY 4.0. Comments: dietcoin.protocol@proton.me · X @Gopikrishn46001 · @GKDcoin (t.me/GKDcoin) · GitHub: github.com/dietcoin-protocol/protocol-paper (Discussions open). Full pricing math (see PRICING.md), tech stack, and mechanism appendices available on request.*
